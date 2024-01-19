@@ -1,0 +1,6 @@
+Python
+
+O que é uma linguagem?
+
+É uma forma de passar uma mensagem a um computador.
+"Idioma do computador"
